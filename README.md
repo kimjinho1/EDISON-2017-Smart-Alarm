@@ -1,4 +1,4 @@
-## 팀명: Mission Impossible  
+# 팀명: Mission Impossible  
 ## 조원: 김진호, 윤희지, 곽민지  
 ## 주제: 스마트 알람  
 
