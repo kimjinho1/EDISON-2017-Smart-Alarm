@@ -8,3 +8,7 @@
 •재미 & 신선함  
 •Mission 을 마음대로 설정가능  
 •스마트 홈 시장의 확대에 따른 제품 성행 예상  
+
+### 개발 과정  
+
+![개발과정](https://user-images.githubusercontent.com/29765855/62957898-a35d0200-be30-11e9-998b-d1fb5ab70158.PNG)  
